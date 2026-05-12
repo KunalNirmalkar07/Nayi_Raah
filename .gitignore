@@ -1,0 +1,28 @@
+# Logs and Reports
+*.log
+dev.log
+lint_error.log
+npm_error.log
+npm-log.txt
+lint-output.txt
+lint-report.json
+
+# Dependencies
+node_modules/
+
+# Build Output
+dist/
+
+# Environment Variables (Keep secrets out of version control)
+.env
+.env.*
+!.env.example
+
+# OS Generated Files (Good practice to include)
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
