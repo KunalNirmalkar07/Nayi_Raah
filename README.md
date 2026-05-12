@@ -1,75 +1,94 @@
-# Welcome to your Lovable project
+# Nayi Raah
 
-## Project info
+Nayi Raah is a career guidance platform made for students who are confused about choosing the right career path. The project helps users explore different careers, learn required skills, and get proper guidance in a simple and easy way.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+The main goal of this project is to make career guidance more accessible for students using technology.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## Features
 
-**Use Lovable**
+- Career guidance for students
+- Skill-based career suggestions
+- Learning roadmap for different fields
+- Simple and responsive user interface
+- User authentication system
+- Easy navigation and clean design
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## Tech Stack
 
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
+### Frontend
+- React.js
+- HTML
+- CSS
+- JavaScript
 - Tailwind CSS
 
-## How can I deploy this project?
+### Backend
+- Node.js
+- Express.js
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+### Database
+- MongoDB
 
-## Can I connect a custom domain to my Lovable project?
+---
 
-Yes, you can!
+## Project Structure
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+```bash
+Nayi_Raah/
+│── client/
+│── server/
+│── public/
+│── README.md
+```
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
-# Nayi_Raah
-# Nayi_Raah
+---
+
+## Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/KunalNirmalkar07/Nayi_Raah.git
+```
+
+Go to the project folder
+
+```bash
+cd Nayi_Raah
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the project
+
+```bash
+npm start
+```
+
+---
+
+## Future Improvements
+
+- AI career recommendation
+- Mentor support
+- Resume builder
+- Internship recommendations
+- Multi-language support
+
+---
+
+## Author
+
+Kunal Nirmalkar
+
+GitHub: https://github.com/KunalNirmalkar07
+
+Portfolio: https://kunalnportfolio.netlify.app/
